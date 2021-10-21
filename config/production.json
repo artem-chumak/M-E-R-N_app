@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "verybadidea",
+  "mongooseUri": "mongodb+srv://Artem:Artem1108@cluster0.3ntch.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
